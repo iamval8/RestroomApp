@@ -1,0 +1,25 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.navbar {
+    background-color: royalblue;
+}
+
+.nav-link {
+    color: white !important;
+}
+
+.btn-primary {
+    background-color: royalblue;
+    border-color: royalblue;
+}
+
+.btn-secondary {
+    background-color: lightblue;
+    border-color: lightblue;
+}
+
+.container h1, .container h2 {
+    color: gray;
+}
